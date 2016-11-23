@@ -1,0 +1,95 @@
+#banner {
+	background-color: orange;
+	text-align: center;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 5em;
+}
+#fake_personal_information {
+	background-color: #b6a754;
+}
+#essay {
+	background-color: #77ba9b;
+}
+#useful_material_and_links_to_them {
+	background-color: #639bf1;
+}
+#intresting_films_and_books {
+	background-color: #3b5998;
+}
+
+#fake_personal_information, #essay, #useful_material_and_links_to_them, #intresting_films_and_books{
+	text-align: center;
+	font-size: 5em;
+	display: table;
+}
+
+.lie_middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.jianjie {
+	margin: 20px;
+}
+
+div > span {
+	font-size: 3em;
+}
+
+#belief {
+	src: url(../image/frog.png);
+}
+
+#house {
+	src: url(../image/house.png);
+}
+
+#tall {
+	src: url(../image/ruler.png);
+}
+
+#weight {
+	src: url(../image/scales.png);
+}
+
+#cornell_note {
+	height: 400px;
+	background-image: url(../image/background/1_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#figure_browser {
+	height: 400px;
+	background-image: url(../image/background/1_2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#u_dt_know_js {
+	height: 400px;
+	background-image: url(../image/background/1_5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#deliberately_practice {
+	height: 400px;
+	background-image: url(../image/background/1_6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.col-lg-4, .col-md-6, .col-sm-6, .col-xs-12{
+	padding: 0px;
+}
+
+
+
+
+
+
+
+
