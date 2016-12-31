@@ -91,6 +91,37 @@ div > span {
 .material_title {
 	font-size: 2em;
 }
+/*films_and_books_css*/
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #99CCFF;
+}
+
+.header-left {
+	font-size: 2.5em;
+	margin-left: 20px;
+}
+
+#films, #books {
+	margin-right: 20px;
+	font-size: 2.5em;
+}
+
+.films_and_books_container {
+	margin: auto 50px;
+	/*test*/
+/*	background-color: green;*/
+	height: 100px;
+}
+
+.films_items {
+	display: flex;
+	justify-content: space-between;
+}
+
+
 
 
 
